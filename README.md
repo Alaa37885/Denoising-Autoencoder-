@@ -98,3 +98,13 @@ streamlit run app.py
 ---
 ## Author
 A'laa Omar
+
+Heba Shams
+
+Amira Emad
+
+Maryam El said 
+
+Maryam Ashraf⁩ 
+
+Rahma Mohammed 
