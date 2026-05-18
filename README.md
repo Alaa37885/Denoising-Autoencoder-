@@ -88,11 +88,7 @@ streamlit run app.py
 4. Compare Original vs Noisy vs Output
 5. MSE loss is computed automatically
 ---
-## Output Example
- Original Image
- Noisy Image
- Reconstructed Image
----
+
 ## Future Improvements
 1. Add deeper CNN autoencoder
 2. Improve reconstruction quality
